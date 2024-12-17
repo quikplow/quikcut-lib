@@ -1,0 +1,27 @@
+{
+  "name": "@trbl/quikcut-lib",
+  "version": "0.0.4",
+  "description": "Shared library for Quikcut",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trouble/quikcut-lib.git"
+  },
+  "author": "dev@trbl.design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trouble/quikcut-lib/issues"
+  },
+  "homepage": "https://github.com/trouble/quikcut-lib#readme",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.4"
+  },
+  "files": [
+    "dist"
+  ]
+}

@@ -1,19 +1,19 @@
 {
-  "name": "@trbl/quikcut-lib",
+  "name": "@quikplow/quikcut-lib",
   "version": "0.0.4",
   "description": "Shared library for Quikcut",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trouble/quikcut-lib.git"
+    "url": "git+https://github.com/quikplow/quikcut-lib.git"
   },
   "author": "dev@trbl.design",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trouble/quikcut-lib/issues"
+    "url": "https://github.com/quikplow/quikcut-lib/issues"
   },
-  "homepage": "https://github.com/trouble/quikcut-lib#readme",
+  "homepage": "https://github.com/quikplow/quikcut-lib#readme",
   "scripts": {
     "build": "tsc"
   },
